@@ -14,7 +14,7 @@ checklists) — it ships no runtime service. The realistic security concerns are
 
 Please report privately — **do not open a public issue** for a security problem.
 
-- Email **jamal.tpapps@gmail.com** with a description, affected file(s), and steps to
+- Email **jameelahmedkalhoro@gmail.com** with a description, affected file(s), and steps to
   reproduce or the risky guidance in question.
 - You'll get an acknowledgement within a few days.
 - Once addressed, we'll credit you in the fix unless you prefer to stay anonymous.
